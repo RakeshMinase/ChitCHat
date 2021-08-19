@@ -1,0 +1,4 @@
+com/example/chitchat/host/BuildConfig.java
+ com.example.chitchat.host.BuildConfig
+com/example/chitchat/host/MainActivity.java
+ com.example.chitchat.host.MainActivity

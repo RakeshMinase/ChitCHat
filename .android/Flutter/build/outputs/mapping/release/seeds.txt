@@ -1,0 +1,25 @@
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.example.chitchat.R$dimen
+com.example.chitchat.R$style
+com.example.chitchat.R$integer: R$integer()
+com.example.chitchat.R$styleable
+com.example.chitchat.R$styleable: R$styleable()
+com.example.chitchat.R$drawable: R$drawable()
+com.example.chitchat.R$drawable
+com.example.chitchat.R$color: R$color()
+com.example.chitchat.R$id
+com.example.chitchat.R$layout: R$layout()
+com.example.chitchat.R$style: R$style()
+com.example.chitchat.R$layout
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.chitchat.R$dimen: R$dimen()
+com.example.chitchat.R$attr
+com.example.chitchat.R$string
+com.example.chitchat.R: R()
+com.example.chitchat.R$color
+io.flutter.plugins.GeneratedPluginRegistrant
+com.example.chitchat.R$id: R$id()
+com.example.chitchat.R$string: R$string()
+com.example.chitchat.R$attr: R$attr()
+com.example.chitchat.R$integer
+com.example.chitchat.R

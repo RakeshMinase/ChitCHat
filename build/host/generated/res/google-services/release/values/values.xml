@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">56740817831-rd4ofqdrlbi1c4gmhlmav14phtg7bofv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">56740817831</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4MVx1daJ8OfDdPkIdVuDSFie3Ti48w8w</string>
+    <string name="google_app_id" translatable="false">1:56740817831:android:e742203a026b828f91e482</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4MVx1daJ8OfDdPkIdVuDSFie3Ti48w8w</string>
+    <string name="google_storage_bucket" translatable="false">chit-chat-7ff2e.appspot.com</string>
+    <string name="project_id" translatable="false">chit-chat-7ff2e</string>
+</resources>
